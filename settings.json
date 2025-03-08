@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "Jhonatam", 
+    "username": "NucleoDoServidor", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
     "ip": "emerald.magmanode.com", 
-    "port": 29083,   
+    "port": 30094,   
     "version": "1.12.1"   
   },
   
